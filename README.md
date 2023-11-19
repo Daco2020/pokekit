@@ -1,3 +1,7 @@
+# PokeKit
+
+https://github.com/Daco2020/pokekit/assets/76890895/da612fa4-3b41-4163-bd80-5748a32eec1e
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
